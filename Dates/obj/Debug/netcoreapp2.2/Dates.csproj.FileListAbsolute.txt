@@ -1,0 +1,11 @@
+D:\repos\Dates\Dates\Dates\bin\Debug\netcoreapp2.2\Dates.deps.json
+D:\repos\Dates\Dates\Dates\bin\Debug\netcoreapp2.2\Dates.runtimeconfig.json
+D:\repos\Dates\Dates\Dates\bin\Debug\netcoreapp2.2\Dates.runtimeconfig.dev.json
+D:\repos\Dates\Dates\Dates\bin\Debug\netcoreapp2.2\Dates.dll
+D:\repos\Dates\Dates\Dates\bin\Debug\netcoreapp2.2\Dates.pdb
+D:\repos\Dates\Dates\Dates\obj\Debug\netcoreapp2.2\Dates.csprojAssemblyReference.cache
+D:\repos\Dates\Dates\Dates\obj\Debug\netcoreapp2.2\Dates.csproj.CoreCompileInputs.cache
+D:\repos\Dates\Dates\Dates\obj\Debug\netcoreapp2.2\Dates.AssemblyInfoInputs.cache
+D:\repos\Dates\Dates\Dates\obj\Debug\netcoreapp2.2\Dates.AssemblyInfo.cs
+D:\repos\Dates\Dates\Dates\obj\Debug\netcoreapp2.2\Dates.dll
+D:\repos\Dates\Dates\Dates\obj\Debug\netcoreapp2.2\Dates.pdb
