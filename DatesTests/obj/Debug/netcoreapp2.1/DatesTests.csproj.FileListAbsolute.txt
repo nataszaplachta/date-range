@@ -1,0 +1,14 @@
+D:\repos\date-range\DatesTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\repos\date-range\DatesTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\repos\date-range\DatesTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\repos\date-range\DatesTests\bin\Debug\netcoreapp2.1\DatesTests.deps.json
+D:\repos\date-range\DatesTests\bin\Debug\netcoreapp2.1\DatesTests.runtimeconfig.json
+D:\repos\date-range\DatesTests\bin\Debug\netcoreapp2.1\DatesTests.runtimeconfig.dev.json
+D:\repos\date-range\DatesTests\bin\Debug\netcoreapp2.1\DatesTests.dll
+D:\repos\date-range\DatesTests\bin\Debug\netcoreapp2.1\DatesTests.pdb
+D:\repos\date-range\DatesTests\obj\Debug\netcoreapp2.1\DatesTests.csprojAssemblyReference.cache
+D:\repos\date-range\DatesTests\obj\Debug\netcoreapp2.1\DatesTests.csproj.CoreCompileInputs.cache
+D:\repos\date-range\DatesTests\obj\Debug\netcoreapp2.1\DatesTests.AssemblyInfoInputs.cache
+D:\repos\date-range\DatesTests\obj\Debug\netcoreapp2.1\DatesTests.AssemblyInfo.cs
+D:\repos\date-range\DatesTests\obj\Debug\netcoreapp2.1\DatesTests.dll
+D:\repos\date-range\DatesTests\obj\Debug\netcoreapp2.1\DatesTests.pdb
