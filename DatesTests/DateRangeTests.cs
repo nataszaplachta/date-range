@@ -58,5 +58,43 @@ namespace DatesTests
 
             Assert.False(yearIsCorrect);
         }
+        [Fact]
+        public void DateWithSameMonthAndYearIsPrintedCorrectly()
+        {
+            string date = "20.03.2014 30.03.2014";
+            string[] split = date.Split('.', ' ');
+            bool isNumeric = split.All(s => s.All(Char.IsDigit));
+            string result = "";
+            string expectedResult = "20 - 30.03.2014";
+            if (split[1] == split[4] && split[2] == split[5])
+            {
+                result = $"{split[0]} - {split[3]}.{split[4]}.{split[5]}";
+            }
+            Assert.Equal(expectedResult, result);
+        }
+        [Fact]
+        public void DateWithSameYearIsPrintedCorrectly()
+        {
+            string date = "20.03.2014 30.05.2014";
+            string[] split = date.Split('.', ' ');
+            bool isNumeric = split.All(s => s.All(Char.IsDigit));
+            string result = "";
+            string expectedResult = "20.03 - 30.05.2014";
+            if (split[2] == split[5])
+            {
+                result = $"{split[0]}.{split[1]} - {split[3]}.{split[4]}.{split[5]}";
+            }
+            Assert.Equal(expectedResult, result);
+        }
+        [Fact]
+        public void DatesArePrintedCorrectly()
+        {
+            string date = "20.03.2014 30.05.2016";
+            string[] split = date.Split('.', ' ');
+            bool isNumeric = split.All(s => s.All(Char.IsDigit));
+            string result = $"{split[0]}.{split[1]}.{split[2]} - {split[3]}.{split[4]}.{split[5]}";
+            string expectedResult = "20.03.2014 - 30.05.2016";                    
+            Assert.Equal(expectedResult, result);
+        }
     }
 }
