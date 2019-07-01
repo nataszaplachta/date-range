@@ -41,7 +41,7 @@ namespace Daty
                 {
                     Console.WriteLine($"{split[0]} - {split[3]}.{split[4]}.{split[5]}");
                 }
-                if (split[2] == split[5])
+                else if (split[2] == split[5])
                 {
                     Console.WriteLine($"{split[0]}.{split[1]} - {split[3]}.{split[4]}.{split[5]}");
                 }
